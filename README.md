@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nishantkafle
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning html,css,js scss,reactjs 
-- 💞️ I’m looking to collaborate on education sector and agricultur from IT 
 - 📫 nishantkafle9860@gmail.com 
 
 <!---
